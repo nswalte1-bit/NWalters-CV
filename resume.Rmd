@@ -1,5 +1,5 @@
 ---
-title: Merlin Roundtable's Resume"
+title: Merlin The Magician's Resume"
 author: Natasha Walters
 date: "`r Sys.Date()`"
 output:
